@@ -1,0 +1,1 @@
+We are using React and Laravel. First, run the backend using the command php artisan serve, and second, run npm run dev.
