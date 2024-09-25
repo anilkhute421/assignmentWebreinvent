@@ -1,1 +1,1 @@
-We are using React and Laravel. First, run the backend using the command php artisan serve, and second, run npm run dev.
+We are using React and Laravel. First, run the backend using the command php artisan serve, and then run npm run dev. Make sure to install all dependencies: for Laravel, install the vendor folder, and for React, install the node_modules folder.
